@@ -669,4 +669,12 @@
      font-size: 10px;
      line-height:13px;
     }
+    .program-head{
+        margin: 90px -3px;
+    }
+    .flex-left {
+        justify-content: left;
+        flex-direction: column;
+        box-sizing: unset;
+    }
     }
